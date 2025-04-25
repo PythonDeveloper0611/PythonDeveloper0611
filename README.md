@@ -97,19 +97,19 @@ Driven by a passion for intelligent automation, I specialize in building smart, 
 - 💼 **LinkedIn:** (https://linkedin.com/in/pythondeveloper0611)  
 - 🔍 **GitHub:** See pinned repos below!
 
-`AI-Selenium-Automation-Suite`
+    `AI-Selenium-Automation-Suite`
 
-`Amazon-Price-Tracker-Bot`
+    `Amazon-Price-Tracker-Bot`
 
-`Instagram-Facebook-AutoPoster`
+    `Instagram-Facebook-AutoPoster`
 
-`CrossBrowser-Testing-SeleniumGrid`
+    `CrossBrowser-Testing-SeleniumGrid`
 
-`News-Jobs-WebScraper`
+    `News-Jobs-WebScraper`
 
-`FileSort-Undo-CLI`
+    `FileSort-Undo-CLI`
 
-`Python-CI-CD-AWS-Deploy`
+    `Python-CI-CD-AWS-Deploy`
 
 ---
 
