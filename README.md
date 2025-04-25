@@ -95,7 +95,6 @@ Driven by a passion for intelligent automation, I specialize in building smart, 
 - 📧 **Email:** python.developer0611@gmail.com  
 - 📱 **Phone:** +91-93920 66685  
 - 💼 **LinkedIn:** (https://linkedin.com/in/pythondeveloper0611)  
-- 🌐 **Portfolio:** (https://yourwebsite.com) 
 - 🔍 **GitHub:** See pinned repos below!
 
 ---
