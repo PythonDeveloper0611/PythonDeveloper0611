@@ -19,7 +19,7 @@ Driven by a passion for intelligent automation, I specialize in building smart, 
 `Python`, `Bash`, `JavaScript`
 
 **Automation & Testing Tools:**  
-`Selenium`,`Playwright`,`Webscraper`,`BeautifulSoup`,'GitHub',`PyTest`, `unittest`, `Behave`, `Requests`, `Postman`
+`Selenium`,`Playwright`,`Webscraper`,`BeautifulSoup`,`GitHub`,`PyTest`, `unittest`, `Behave`, `Requests`, `Postman`
 
 **CI/CD & DevOps:**  
 `GitHub Actions`, `Jenkins`, `Docker`, `AWS (EC2, S3, Elastic Beanstalk)`
